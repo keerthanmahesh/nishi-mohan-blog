@@ -21,7 +21,7 @@ html {
     justify-content: center;
     height: 100%;
     width: 100%;
-    min-height: 640px;
+    min-height: 660px;
     padding: 0;
     background: #e5e5e5 url(../../assets/images/landing-image.jpg) no-repeat top center;
     -webkit-background-size: cover;
